@@ -15,7 +15,7 @@ The design supports mood logging, hydration tracking, and daily mindfulness habi
 
 ## 📸 Preview
 
-![Cover](/Wellness-App-Design/wel.png)
+![Cover](/wel.png)
 
 ## 📁 Folder Structure
 - `preview/` – Screenshots of the Figma design
